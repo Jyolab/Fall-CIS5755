@@ -1,5 +1,6 @@
 # Fall-CIS5755
-# Jyothsna Korada
-# jyothsnak.1994@gmail.com
+# Group lab project
+# Jyothsna Korada - jxk59660@ucmo.edu
+# Sahithi Talasila -sxt34220@ucmo.edu
 
 This is a course project
